@@ -1,11 +1,10 @@
 import * as React from 'react'
-import UseFieldArrayDemo1 from './useFieldArray-demo/demo1'
-import UseFieldArrayDemo2 from './useFieldArray-demo/demo2'
-import UseFieldArrayDemo3 from './useFieldArray-demo/demo3'
-import UseFieldArrayDemo4 from './useFieldArray-demo/demo4'
-import UnregisterDemo1 from './unregister/demo1'
-import ControllerDemo1 from './controller/demo1'
-
+import UseFieldArrayDemo1 from './react-hook-form-ins/useFieldArray-demo/demo1'
+import UseFieldArrayDemo2 from './react-hook-form-ins/useFieldArray-demo/demo2'
+import UseFieldArrayDemo3 from './react-hook-form-ins/useFieldArray-demo/demo3'
+import UseFieldArrayDemo4 from './react-hook-form-ins/useFieldArray-demo/demo4'
+import UnregisterDemo1 from './react-hook-form-ins/unregister/demo1'
+import ControllerDemo1 from './react-hook-form-ins/controller/demo1'
 
 export default function App() {
   return (
